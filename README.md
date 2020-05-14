@@ -1,2 +1,2 @@
 # Machine_Learning_Projects
-A repository of Machine Lear.ning projects created using publicly available data
+A repository of Machine Learning projects created using publicly available data.
